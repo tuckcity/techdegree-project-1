@@ -102,6 +102,14 @@ header .profile-image:hover {
 .card h2 {
   text-align: center;
 }
+
+.card li {
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  list-style-type: none;
+}
+
 .card:hover {
   border-color: #ff99ff;
 }
