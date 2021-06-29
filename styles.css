@@ -99,6 +99,9 @@ header .profile-image:hover {
   border-radius: 6px;
   transition: all .5s;
 }
+.card h2 {
+  text-align: center;
+}
 .card:hover {
   border-color: #ff99ff;
 }
