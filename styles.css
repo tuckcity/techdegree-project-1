@@ -109,6 +109,11 @@ header .profile-image:hover {
   padding: 0px;
   list-style-type: none;
 }
+.card ul {
+  list-style-type: none;
+  padding-left: 0;
+  list-style-position: inside;
+}
 
 .card:hover {
   border-color: #ff99ff;
