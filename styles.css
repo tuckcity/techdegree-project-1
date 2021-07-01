@@ -209,6 +209,13 @@ a.social:hover {
     line-height: 1.6em;
   }
 
+  section {
+    padding-top: 20px;
+  }
+  section p {
+    line-height: 1.6em;
+  }
+
   footer {
     font-size: 1.3em;
     max-width: 1200px;
